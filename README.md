@@ -1,20 +1,20 @@
 # Election-Analysis
 
-##Project OverView
+## Project OverView
 
 
 
 
-##Resources
+## Resources
 
 
 
-##Summary
+## Summary
 
 
 
 
-##Challenge Overview
+## Challenge Overview
 
 
-## Challeng Summary
+## Challenge Summary
