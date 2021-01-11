@@ -15,7 +15,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Visual Studio Code, 1.52.1
 
 ## Summary
-### The analysis of the election [election results](resources/election_results_terminal.png) show that:
+### The analysis of the election [election results](./resources/election_results_terminal.png) show that:
 
 #### There were 369,711 votes cast in the election.
 
