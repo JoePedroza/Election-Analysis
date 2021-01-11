@@ -12,8 +12,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 
 ## Resources
-Data Source: election_results.csv
-Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Data Source: election_results.csv
+- Software: Python 3.6.1, 
+- Visual Studio Code, 1.38.1
 
 
 ## Summary
@@ -21,15 +22,15 @@ Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 There were "x" votes cast in the election.
 The candidates were:
--Candidate 1
--Candidate 2
--Candidate 3
+- Candidate 1
+- Candidate 2
+- Candidate 3
 The candidate results were:
--Candidate 1 received "x%" of the vote and "y" number of votes.
--Candidate 2 received "x%" of the vote and "y" number of votes.
--Candidate 3 received "x%" of the vote and "y" number of votes.
+- Candidate 1 received "x%" of the vote and "y" number of votes.
+- Candidate 2 received "x%" of the vote and "y" number of votes.
+- Candidate 3 received "x%" of the vote and "y" number of votes.
 The winner of the election was:
--Candidate (1,2, or 3), who received "x%" of the vote and "y" number of votes.
+- Candidate (1,2, or 3), who received "x%" of the vote and "y" number of votes.
 
 ## Challenge Overview
 
